@@ -2,7 +2,7 @@
 
 这个仓库只放一份**订阅清单**（`plugins.json`），不存放插件本体。插件文件在各自主仓库里发布，这里只记录它们的最新地址与版本。
 
-另外收了一份[《用 AI 做同类网盘插件的提示词》](./PROMPT.md)——两个插件都是照它做出来的，里面还记了第二个插件踩出来的坑。
+另外收了一份[《用 AI 做同类网盘插件的提示词》](https://github.com/fhvyxyci/musicfree-plugins/blob/main/PROMPT.md)——两个插件都是照它做出来的，里面还记了第二个插件踩出来的坑。
 
 | 插件 | 版本 | 需要填什么 |
 | --- | --- | --- |
@@ -68,7 +68,7 @@ https://fhvyxyci.github.io/musicfree-plugins/plugins.json
 
 想给百度网盘、115、天翼云盘、123 云盘、夸克、OneDrive、Google Drive、WebDAV 这类网盘也做一个？这里有现成的提示词和踩坑记录：
 
-**→ [PROMPT.md](./PROMPT.md)**
+**→ [PROMPT.md](https://github.com/fhvyxyci/musicfree-plugins/blob/main/PROMPT.md)**
 
 - 两段提示词：第一段做插件（接口依据、功能清单、沙箱限制、测试要求），第二段做发布（协议、仓库、Pages）
 - 一节**实战踩坑记录**：反爬怎么对付、会话怎么保、手机端沙箱有哪些坑、没有服务端搜索怎么建索引、怎么让错误在手机上可见
