@@ -1,0 +1,24 @@
+{
+  "name": "fhvyxyci 的 MusicFree 插件订阅",
+  "updatedAt": "2026-11-20T16:40:00+08:00",
+  "plugins": [
+    {
+      "name": "蓝奏云",
+      "platform": "蓝奏云",
+      "version": "0.0.16",
+      "author": "fhvyxyci",
+      "description": "把蓝奏云网盘当音乐库：全盘搜索、文件夹当歌单/专辑、全部歌曲榜单、同名 lrc 歌词、内嵌标签，账号密码即用",
+      "url": "https://fhvyxyci.github.io/musicfree-plugins/plugins/lanzou.js",
+      "source": "https://github.com/fhvyxyci/musicfree-plugin-lanzou"
+    },
+    {
+      "name": "阿里云盘",
+      "platform": "阿里云盘",
+      "version": "0.0.8",
+      "author": "fhvyxyci",
+      "description": "把阿里云盘 aliyundrive / alipan 当音乐库：搜索、文件夹当歌单/专辑、目录浏览、全部歌曲、播放直链与歌词，只需一个刷新令牌（refresh_token）",
+      "url": "https://fhvyxyci.github.io/musicfree-plugins/plugins/aliyundrive.js",
+      "source": "https://github.com/fhvyxyci/musicfree-plugin-aliyundrive"
+    }
+  ]
+}
